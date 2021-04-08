@@ -471,7 +471,7 @@ button.learn-more:hover .button-text {
   width: 100%;
   background-color: #ffffffbf;
   backdrop-filter: blur(5px);
-  box-shadow: 6px 1px 33px 20px #ffffffe3;
+  /* box-shadow: 6px 1px 33px 20px #ffffffe3; */
 }
 #spotlight .front_row {
   min-height: 100vh;
@@ -614,7 +614,7 @@ button.learn-more:hover .button-text {
 #about {
   /* min-height: 100vh; */
   background-color: #fff;
-  box-shadow: 0px -20px 42px 20px #fff;
+  /* box-shadow: 0px -20px 42px 20px #fff; */
 }
 #about .content {
   text-align: center;
