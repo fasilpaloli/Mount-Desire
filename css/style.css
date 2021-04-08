@@ -1475,6 +1475,7 @@ footer .osperb:hover {
   transform: scale(1);
   transition: 6s all;
   min-height: 100vh;
+  object-fit: cover;
 }
 #owl-demo .active img{
   transform: scale(1.2);
